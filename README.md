@@ -40,8 +40,8 @@ In conclusion, this assignment demonstrated how NLP techniques can be used to an
 
 
 # Group Members
-Esther Kondowe  BIT/22/SS/015
-George Dambo    BIT/21/SS/008
-Patrick Magule  BIT/21/SS/020
+Esther Kondowe  BIT/22/SS/015,
+George Dambo    BIT/21/SS/008,
+Patrick Magule  BIT/21/SS/020,
 Rexious Huka    BIT/22/SS/009
 
