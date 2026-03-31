@@ -28,6 +28,9 @@ Part of Speech tagging was applied to label each word in the text according to i
 
 <img src="PartOfSpeech_Output.png" width=400>
 
+ # Dependency tree visual
+ <img src="PartOfSpeech_d.png" width=400>
+
 # Test 3: Speech to text
 Speech-to-text conversion was performed by recording audio and converting it into written text. The system was able to transcribe the spoken words into text with reasonable accuracy, although minor errors may occur due to pronunciation or background noise.
 # Input and Output
